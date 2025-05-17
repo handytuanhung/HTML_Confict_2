@@ -1,0 +1,28 @@
+#handy-line {
+    color: red;
+    font-size: 20px;
+    font-style: italic;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+h1 {
+    color: blue;
+    font-style: italic;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+    text-decoration: dashed underline;
+}
+.deptrai{
+    color: indianred;
+    font-size: 12px;
+    font-style: italic;
+    text-transform: uppercase;
+}
+/* #handy-line{
+    color: green;
+    font-size: 20px;
+    font-style: italic;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+} */
